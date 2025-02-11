@@ -1,4 +1,6 @@
-Contact Management API
+
+CONTACT MANAGEMENT API
+
 This is a simple Contact Management API built using Node.js, Express.js, and MongoDB/SQLite. It provides CRUD operations for managing contacts.
 
 Features
